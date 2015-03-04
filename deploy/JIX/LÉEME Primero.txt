@@ -18,8 +18,8 @@ J:::::::JJJ:::::::J  II::::::IIX::::::X     X::::::X
                                                     
 Bienvenido a su archivo Léeme, este archivo le guiará en los primeros pasos de uso de su nueva página web.
 
-Felicidades, es ahora usted poseedor de una página web  apta para la web moderna, su página una vez en Internet podrá ser vista por todo el mundo. 
-Su página web está diseñada con los más altos estándares para la web moderna, disponible para dispositivos móviles como celulares y tabletas. Además disponible también en PC y laptops.
+Felicidades, es ahora usted poseedor de una página web apta para la web moderna, su página una vez en Internet podrá ser vista por todo el mundo. 
+Su página web está diseñada con los más altos estándares de la web, disponible para dispositivos móviles como celulares y tabletas. Además también en PC y laptops.
 Los archivos de su página web están ordenados en carpetas:
  
 css
@@ -39,10 +39,12 @@ fonts
 img
 	img/favicon.ico
 	img/ico.png
+	img/JIX01.jpg
+	img/JIX02.jpg
+	img/JIX04.jpg
+	img/JIX05.jpg
+	img/JIX05_Big.jpg
 	img/logo_header.png
-	img/main_01.jpg
-	img/main_02.jpg
-	img/main_03.jpg
 	img/social.png
   js
      	js/bootstrap.js
@@ -52,7 +54,8 @@ img
 	js/respond.min.js
 	js/smooth-scroll-min.js
 Index.html
-htaccess. htaccess	
+htaccess. htaccess
+LÉEME Primero.txt	
 	
 Para probar su página web desde su computadora es necesario dar doble click en el archivo “Index” dispuesto en el inicio de los archivos (directorio raiz), se recomienda usar el explorador Google Chrome para una correcta visualización de su página web.
 

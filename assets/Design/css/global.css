@@ -170,12 +170,13 @@ height: auto;
 	background-size:contain;*/
 }
 .circle figure img{
-width: 100%;
-height: auto;
+	width: 100%;
+	height: auto;
 }
 .circle figure{
-	width: 136%;
-	margin-left: -12px;
+	width: 178%;
+	position: relative;
+	margin-left: -66px;
 }
 .header_main{
 	margin: 3%  auto;
@@ -201,6 +202,10 @@ height: auto;
    width:100%;
    height:100%;
    z-index: 1;
+}
+.map-back{
+	background-color: #f1f1f1;
+	padding: 12px 0;
 }
 .google-maps {
 	position: relative;
